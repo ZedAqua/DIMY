@@ -126,7 +126,7 @@ Attack behaviors:
 
 ## **Developer**
 
-- Project Author: Patrick
+- Project Author: ZedAqua
 - GitHub Repository: [Repository Link]
 
 ---
